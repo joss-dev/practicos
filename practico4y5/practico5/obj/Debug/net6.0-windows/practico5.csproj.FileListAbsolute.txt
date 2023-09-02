@@ -1,0 +1,17 @@
+C:\Users\joss\Source\Repos\practico4y5\practico5\bin\Debug\net6.0-windows\practico5.exe
+C:\Users\joss\Source\Repos\practico4y5\practico5\bin\Debug\net6.0-windows\practico5.deps.json
+C:\Users\joss\Source\Repos\practico4y5\practico5\bin\Debug\net6.0-windows\practico5.runtimeconfig.json
+C:\Users\joss\Source\Repos\practico4y5\practico5\bin\Debug\net6.0-windows\practico5.dll
+C:\Users\joss\Source\Repos\practico4y5\practico5\bin\Debug\net6.0-windows\practico5.pdb
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.form5.resources
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.Properties.Resources.resources
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.csproj.GenerateResource.cache
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.AssemblyInfoInputs.cache
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.AssemblyInfo.cs
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.csproj.CoreCompileInputs.cache
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.dll
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\refint\practico5.dll
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.pdb
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\practico5.genruntimeconfig.cache
+C:\Users\joss\Source\Repos\practico4y5\practico5\obj\Debug\net6.0-windows\ref\practico5.dll
